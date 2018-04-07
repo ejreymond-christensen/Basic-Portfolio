@@ -1,2 +1,2 @@
-# UT-HW1-HTML-CSS-PORTFOLIO
-Portfolio Project using only HTML/CSS
+# BASIC-PORTFOLIO
+Portfolio using only HTML/CSS
